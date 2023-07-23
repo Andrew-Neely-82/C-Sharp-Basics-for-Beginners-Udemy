@@ -1,0 +1,15 @@
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\bin\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.exe
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\bin\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.deps.json
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\bin\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.runtimeconfig.json
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\bin\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.dll
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\bin\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.pdb
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.csproj.AssemblyReference.cache
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.AssemblyInfoInputs.cache
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.AssemblyInfo.cs
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.csproj.CoreCompileInputs.cache
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.dll
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\refint\C-Sharp-Basics-for-Beginners-Udemy.dll
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.pdb
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\C-Sharp-Basics-for-Beginners-Udemy.genruntimeconfig.cache
+C:\Users\Clav\OneDrive\Desktop\VS Code Repos\C-Sharp-Basics-for-Beginners-Udemy\C-Sharp-Basics-for-Beginners-Udemy\obj\Debug\net7.0\ref\C-Sharp-Basics-for-Beginners-Udemy.dll
