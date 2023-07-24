@@ -13,19 +13,48 @@ namespace HelloWorld
             // string firstName = "Andrew";
             // bool isWorking = false;
 
-            var number = 2;
-            var count = 10;
-            var totalPrice = 20.95f;
-            var character = 'A';
-            var firstName = "Andrew";
-            var isWorking = false;
+            // var number = 2;
+            // var count = 10;
+            // var totalPrice = 20.95f;
+            // var character = 'A';
+            // var firstName = "Andrew";
+            // var isWorking = false;
 
-            System.Console.WriteLine(number);
-            System.Console.WriteLine(count);
-            System.Console.WriteLine(totalPrice);
-            System.Console.WriteLine(character);
-            System.Console.WriteLine(firstName);
-            System.Console.WriteLine(isWorking);
+            // System.Console.WriteLine(number);
+            // System.Console.WriteLine(count);
+            // System.Console.WriteLine(totalPrice);
+            // System.Console.WriteLine(character);
+            // System.Console.WriteLine(firstName);
+            // System.Console.WriteLine(isWorking);
+
+
+            // TODO Casting int to byte
+
+            // int i = 1;
+            // byte b = ((byte)i);
+            // System.Console.WriteLine(b);
+
+            // TODO: Casting string to int
+
+            // string num = "250";
+            // * convert method
+            // int number = Convert.ToInt32(num);
+            // * parse method
+            // int number = int.Parse(num);
+            // System.Console.WriteLine(number);
+
+            // TODO: Conversion with try catch block
+            
+            try
+            {
+                string number = "1234";
+                byte b = Convert.ToByte(number);
+                System.Console.WriteLine(b);
+            }
+            catch (Exception)
+            {
+                System.Console.WriteLine("does not convert");
+            }
         }
     }
 }
