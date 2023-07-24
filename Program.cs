@@ -44,17 +44,25 @@ namespace HelloWorld
             // System.Console.WriteLine(number);
 
             // TODO: Conversion with try catch block
-            
-            try
-            {
-                string number = "1234";
-                byte b = Convert.ToByte(number);
-                System.Console.WriteLine(b);
-            }
-            catch (Exception)
-            {
-                System.Console.WriteLine("does not convert");
-            }
+
+            // try
+            // {
+            //     string number = "1234";
+            //     byte b = Convert.ToByte(number);
+            //     System.Console.WriteLine(b);
+            // }
+            // catch (Exception)
+            // {
+            //     System.Console.WriteLine("does not convert");
+            // }
+
+            // TODO: accurately divide integers
+
+            // int a = 10;
+            // int b = 3;
+            // System.Console.WriteLine((float)a / (float)b);
+
+
         }
     }
 }
