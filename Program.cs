@@ -114,6 +114,40 @@ namespace HelloWorld
             // var methodName = "Express";
             // var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
             // System.Console.WriteLine(shippingMethod);
-        }
+
+            // var a = 10;
+            // var b = a;
+            // b++;
+
+            // System.Console.WriteLine($"a: {a} b: {b}");
+
+            // var array1 = new int/[3] { 1, 2, 3 };
+            // var array2 = array1;
+            // array2[0] = 0;
+            // System.Console.WriteLine($"array1[0]: {array1[0]}, array2[0]: {array2[0]}");
+
+
+            // TODO: Reference types and value types
+
+            // var number = 1;
+            // Increment(number);
+            // System.Console.WriteLine(number); // not effected
+
+            // var person = new Person() { Age = 20 };
+            // MakeOld(person);
+            // System.Console.WriteLine(person.Age);
+
+
+        } // ! END OF MAIN METHOD
+
+        // public static void Increment(int number)
+        // {
+        //     number += 1;
+        // }
+
+        // public static void MakeOld(Person person)
+        // {
+        //     person.Age += 10;
+        // }
     }
 }

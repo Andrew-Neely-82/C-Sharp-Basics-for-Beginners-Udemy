@@ -4,6 +4,7 @@ namespace HelloWorld
     {
         public string FirstName;
         public string LastName;
+        public int Age;
 
         public void Introduce()
         {
