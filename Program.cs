@@ -72,6 +72,25 @@ namespace HelloWorld
             System.Console.WriteLine(resultAdd);
             string resultSubtract = Calculator.Subtract(4, 1);
             System.Console.WriteLine(resultSubtract);
+
+            System.Console.WriteLine("");
+            System.Console.WriteLine("Numbers array");
+
+            var numbers = new int[3] { 1, 2, 3 };
+
+            // * for loop
+            for (int i = 1; i <= numbers.Length; i++)
+            {
+                System.Console.WriteLine(i);
+            }
+
+            // * presents all the numbers as a string
+            string list = string.Join(",", numbers);
+            System.Console.WriteLine(list);
+
+            // TODO: format strictly
+            // string path = @"./Math/NonPrimitives.cs";
+            // System.Console.WriteLine(path);
         }
     }
 }
