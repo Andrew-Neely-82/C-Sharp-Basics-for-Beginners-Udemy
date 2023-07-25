@@ -1,4 +1,5 @@
 ﻿using System;
+using HelloWorld.Math;
 
 namespace HelloWorld
 {
@@ -62,7 +63,15 @@ namespace HelloWorld
             // int b = 3;
             // System.Console.WriteLine((float)a / (float)b);
 
+            Person Andrew = new Person();
+            Andrew.FirstName = "Andrew";
+            Andrew.LastName = "Neely";
+            Andrew.Introduce();
 
+            string resultAdd = Calculator.Add(1, 2);
+            System.Console.WriteLine(resultAdd);
+            string resultSubtract = Calculator.Subtract(4, 1);
+            System.Console.WriteLine(resultSubtract);
         }
     }
 }
