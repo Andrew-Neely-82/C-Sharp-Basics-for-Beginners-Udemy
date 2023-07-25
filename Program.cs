@@ -3,6 +3,13 @@ using HelloWorld.Math;
 
 namespace HelloWorld
 {
+    public enum ShippingMethod
+    {
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -63,34 +70,50 @@ namespace HelloWorld
             // int b = 3;
             // System.Console.WriteLine((float)a / (float)b);
 
-            Person Andrew = new Person();
-            Andrew.FirstName = "Andrew";
-            Andrew.LastName = "Neely";
-            Andrew.Introduce();
+            // TODO: access objects in a class
 
-            string resultAdd = Calculator.Add(1, 2);
-            System.Console.WriteLine(resultAdd);
-            string resultSubtract = Calculator.Subtract(4, 1);
-            System.Console.WriteLine(resultSubtract);
+            // Person Andrew = new Person();
+            // Andrew.FirstName = "Andrew";
+            // Andrew.LastName = "Neely";
+            // Andrew.Introduce();
 
-            System.Console.WriteLine("");
-            System.Console.WriteLine("Numbers array");
+            // string resultAdd = Calculator.Add(1, 2);
+            // System.Console.WriteLine(resultAdd);
+            // string resultSubtract = Calculator.Subtract(4, 1);
+            // System.Console.WriteLine(resultSubtract);
 
-            var numbers = new int[3] { 1, 2, 3 };
+            // System.Console.WriteLine("");
+            // System.Console.WriteLine("Numbers array");
+
+            // var numbers = new int[3] { 1, 2, 3 };
 
             // * for loop
-            for (int i = 1; i <= numbers.Length; i++)
-            {
-                System.Console.WriteLine(i);
-            }
+            // for (int i = 1; i <= numbers.Length; i++)
+            // {
+            //     System.Console.WriteLine(i);
+            // }
 
             // * presents all the numbers as a string
-            string list = string.Join(",", numbers);
-            System.Console.WriteLine(list);
+            // string list = string.Join(",", numbers);
+            // System.Console.WriteLine(list);
 
             // TODO: format strictly
             // string path = @"./Math/NonPrimitives.cs";
             // System.Console.WriteLine(path);
+
+            // var method = ShippingMethod.Express;
+            // System.Console.WriteLine((int)method);
+
+            var methodId = 3;
+            // System.Console.WriteLine((ShippingMethod)methodId);
+
+            // * convert enum to string
+            // System.Console.WriteLine(method.ToString());
+
+            // * convert string to enum
+            // var methodName = "Express";
+            // var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+            // System.Console.WriteLine(shippingMethod);
         }
     }
 }
