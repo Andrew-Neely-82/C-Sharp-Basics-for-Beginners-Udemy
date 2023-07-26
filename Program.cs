@@ -137,7 +137,36 @@ namespace HelloWorld
             // MakeOld(person);
             // System.Console.WriteLine(person.Age);
 
+            // TODO: for loops
 
+
+            // for (var i = 1; i <= 10; i++)
+            // {
+            //     if (i % 2 == 0)
+            //     {
+            //         System.Console.WriteLine(i);
+            //     }
+            // }
+
+            // for (var i = 10; i >= 1; i--)
+            // {
+            //     if (i % 2 == 0)
+            //     {
+            //         System.Console.WriteLine(i);
+            //     }
+            // }
+
+
+            // TODO: for each loops
+
+            // var numbers = new int[] { 1, 2, 3, 4 };
+
+            // foreach (var number in numbers)
+            // {
+            //     System.Console.WriteLine(number);
+            // }
+
+            //
         } // ! END OF MAIN METHOD
 
         // public static void Increment(int number)
