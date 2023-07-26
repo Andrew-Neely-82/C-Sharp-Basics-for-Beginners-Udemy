@@ -178,10 +178,15 @@ namespace HelloWorld
             //         System.Console.WriteLine("@Echo: " + input);
             //         continue;
             //     }
-            }
+            // }
 
             // TODO: random class
+            // var random = new Random();
 
+            // for (int i = 0; i < 10; i++)
+            // {
+            //     System.Console.WriteLine(random.Next(1,10));
+            // }
 
             //
         } // ! END OF MAIN METHOD
