@@ -166,6 +166,23 @@ namespace HelloWorld
             //     System.Console.WriteLine(number);
             // }
 
+            // TODO: while loop
+
+            // while (true)
+            // {
+            //     System.Console.WriteLine("Write your name: ");
+            //     var input = Console.ReadLine();
+
+            //     if (!String.IsNullOrWhiteSpace(input))
+            //     {
+            //         System.Console.WriteLine("@Echo: " + input);
+            //         continue;
+            //     }
+            }
+
+            // TODO: random class
+
+
             //
         } // ! END OF MAIN METHOD
 
